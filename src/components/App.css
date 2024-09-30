@@ -1,0 +1,71 @@
+.carousel-caption{
+    text-align:left;
+    left:9%;
+    margin-bottom:8%;
+}
+.bord-nav{
+    border-left: solid 1px rgb(102, 101, 101);
+}
+.btan{
+    background-color: #F5360D; 
+    color: #ffffff;
+    margin-left: 8px;
+}
+.bord{
+    border-bottom: solid 3px #F5360D;
+    width:5%;
+}
+.bord-footer{
+    border-bottom: solid 1px #F5360D;
+    width:60%;
+}
+.bg-img{
+    background: url(img/background.jpg);
+    background-size: cover;
+}
+.d-p{
+    padding-bottom:11px ;
+}
+.banner-card-1{
+    background: url(img/banner-2.jpg);
+    background-size: cover;
+}
+.banner-card-2{
+    background: url(img/banner-3.jpg);
+    background-size: cover;
+}
+.banner-card-3{
+    background: url(img/banner-4.jpg);
+    background-size: cover;
+}
+.images{
+    width: 160px;
+}
+.space{
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+.bottom-logo-sec{
+    text-align: center;
+}
+.bottom-logo{
+    width: 200px;
+}
+.column{
+    padding:2% 0%;
+}
+.color{
+    transition:0.5s;
+}
+.color:hover{
+    transition: 0.5s;
+    color:#F5360D;
+}
+.footer-text{
+    transition:0.5s;
+}
+.footer-text:hover{
+    margin-left: 5px;
+    transition:0.5s;
+    color:#F5360D;
+}
